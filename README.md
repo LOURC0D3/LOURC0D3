@@ -1,16 +1,11 @@
-### Hi there 👋
+<div align = "center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Pwn!&fontSize=90&animation=scaleIn)
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLOURC0D3%2FLOURC0D3&count_bg=%23109AE1&title_bg=%235E5555&icon=python.svg&icon_color=%23FFFFFF&title=LOURCODE&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**LOURC0D3/LOURC0D3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# LOURCODE
+<br>
+  
+### I'm interested in 
+  ### Software Development, System Hacking, Reversing, Network Hacking, Forensic.
