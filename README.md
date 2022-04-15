@@ -14,9 +14,6 @@
   
 # LOURCODE
  💻 I'm interested in 💻 <br>
- Software Development, System Hacking, Reversing, Network Hacking.
+ Software Development, Vulnerability Research
 
 <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourc0d3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
