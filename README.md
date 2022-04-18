@@ -11,7 +11,14 @@
 
   
 # LOURCODE
- I'm interested in <br>
- Software Development, Vulnerability Research
+### Interests
+  - Software Engineering
+  - Vulnerability Research
+  - Automatic Vulnerability Detection
+  
+### Education
+  - Department of Computer Game Devlopment, Korea Game Science High School
+  - Department of Information Security, Soonchunhyang Univ
+  
 
 <br>
