@@ -12,13 +12,13 @@
   
 # LOURCODE
 ### Interests
-  - Software Engineering
-  - Vulnerability Research
-  - Automatic Vulnerability Detection
+Software Engineering
+Vulnerability Research
+Automatic Vulnerability Detection
   
 ### Education
-  - Department of Computer Game Devlopment, Korea Game Science High School
-  - Department of Information Security, Soonchunhyang Univ
+Department of Computer Game Devlopment, Korea Game Science High School
+Department of Information Security, Soonchunhyang Univ
   
 
 <br>
