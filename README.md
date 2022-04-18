@@ -11,7 +11,7 @@
 
   
 # LOURCODE
- 💻 I'm interested in 💻 <br>
+ I'm interested in <br>
  Software Development, Vulnerability Research
 
 <br>
