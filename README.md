@@ -17,7 +17,7 @@ Vulnerability Research <br>
 Automatic Vulnerability Detection <br>
   
 ### Education
-Department of Computer Game Devlopment, Korea Game Science High School <br>
+Department of Computer Game Development, Korea Game Science High School <br>
 Department of Information Security, Soonchunhyang Univ <br>
   
 
