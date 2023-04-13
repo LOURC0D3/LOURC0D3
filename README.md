@@ -10,15 +10,19 @@
 [![Blog Badge](http://img.shields.io/badge/-gitBlog-blue?style=plastic-square&logo=Github&link=https://lourc0d3.github.io/)](https://lourc0d3.github.io/)
 
   
-# LOURCODE
-### Interests
-Software Engineering <br>
-Vulnerability Research <br>
-Automatic Vulnerability Detection <br>
-  
-### Education
-Department of Computer Game Development, Korea Game Science High School <br>
-Department of Information Security, Soonchunhyang Univ <br>
-  
+## CHAN IN KIM (a.k.a. LOURCODE)
 
-<br>
+TOOR (Team of offensive Research)
+
+### Interests
+- Computer Science
+- Software Vulnerability
+
+### Education
+- Department of Computer Game Development, Korea Game Science High School
+- Department of Information Security, Soonchunhyang Univ
+
+### Bug Reports
+- Wordpress Plugins
+    - CVE-2023-29439
+    - CVE-2023-30491
