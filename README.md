@@ -21,3 +21,4 @@ TOOR (Team of offensive Research)
 - Wordpress Plugins
     - CVE-2023-29439
     - CVE-2023-30491
+    - CVE-2023-32961
