@@ -25,3 +25,4 @@ TOOR (Team of offensive Research)
     - CVE-2023-32961
 - macOS 3rd-party apps
     - CVE-2023-34190
+    - VSCode Security Mitgation Bypass - Patched
