@@ -38,6 +38,22 @@
     - Hikvision Web Components
         - [CVE-2023-28812](https://nvd.nist.gov/vuln/detail/CVE-2023-28812), Remote Code Execution (Discovered with @ENVY)
         - [CVE-2023-28813](https://nvd.nist.gov/vuln/detail/CVE-2023-28813), Remote Code Execution (Discovered with @ENVY)
+    - Synology Surveillance Station
+        - [CVE-2024-29228](https://nvd.nist.gov/vuln/detail/CVE-2024-29228), Missing Authorization (Discovered with @ENVY)
+        - [CVE-2024-29229](https://nvd.nist.gov/vuln/detail/CVE-2024-29229), Missing Authorization (Discovered with @ENVY)
+        - [CVE-2024-29241](https://nvd.nist.gov/vuln/detail/CVE-2024-29241), Missing Authorization (Discovered with @ENVY)
+        - [CVE-2024-29227](https://nvd.nist.gov/vuln/detail/CVE-2024-29227), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29230](https://nvd.nist.gov/vuln/detail/CVE-2024-29230), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29231](https://nvd.nist.gov/vuln/detail/CVE-2024-29231), Improper Validation of Array Index (Discovered with @ENVY)
+        - [CVE-2024-29232](https://nvd.nist.gov/vuln/detail/CVE-2024-29232), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29233](https://nvd.nist.gov/vuln/detail/CVE-2024-29233), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29234](https://nvd.nist.gov/vuln/detail/CVE-2024-29234), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29235](https://nvd.nist.gov/vuln/detail/CVE-2024-29235), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29236](https://nvd.nist.gov/vuln/detail/CVE-2024-29236), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29237](https://nvd.nist.gov/vuln/detail/CVE-2024-29237), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29238](https://nvd.nist.gov/vuln/detail/CVE-2024-29238), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29239](https://nvd.nist.gov/vuln/detail/CVE-2024-29239), SQL Injection (Discovered with @ENVY)
+        - [CVE-2024-29240](https://nvd.nist.gov/vuln/detail/CVE-2024-29240), Missing Authorization (Discovered with @ENVY)
 - 2024
     - macOS 3rd-party Apps
         - KVE-2024-0073, REDACTED
