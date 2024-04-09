@@ -38,6 +38,10 @@
     - Hikvision Web Components
         - [CVE-2023-28812](https://nvd.nist.gov/vuln/detail/CVE-2023-28812), Remote Code Execution (Discovered with @ENVY)
         - [CVE-2023-28813](https://nvd.nist.gov/vuln/detail/CVE-2023-28813), Remote Code Execution (Discovered with @ENVY)
+    - Hikvision NVR
+        - [CVE-2024-29947](https://nvd.nist.gov/vuln/detail/CVE-2024-29947), NULL Pointer Dereference (Discovered with @ENVY)
+        - [CVE-2024-29948](https://nvd.nist.gov/vuln/detail/CVE-2024-29948), Out-of-bounds read (Discovered with @ENVY)
+        - [CVE-2024-29949](https://nvd.nist.gov/vuln/detail/CVE-2024-29949), Command Injection (Discovered with @ENVY)
     - Synology Surveillance Station
         - [CVE-2024-29228](https://nvd.nist.gov/vuln/detail/CVE-2024-29228), Missing Authorization (Discovered with @ENVY)
         - [CVE-2024-29229](https://nvd.nist.gov/vuln/detail/CVE-2024-29229), Missing Authorization (Discovered with @ENVY)
