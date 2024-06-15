@@ -61,4 +61,4 @@
 - 2024
     - macOS 3rd-party Apps
         - KVE-2024-0073, REDACTED
-        - N/A, Code Injection in Nextcloud Desktop for macOS
+        - CVE-2024-37885, Code Injection in Nextcloud Desktop for macOS
