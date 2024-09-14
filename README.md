@@ -14,7 +14,8 @@
 ### Experience
 - 2020.3 ~ 2020.6, Mentee, K-Shield Jr, Security incident analysis & response
 - 2023.7 ~ 2024.3, Mentee, KITRI Best of the Best 12th, Vuln Analysis, WhiteHat 10
-- 2024.3 ~ now, Internship, Offensive Researcher at S2W Inc.
+- 2024.3 ~ 2024.8, Internship, Offensive Researcher at S2W Inc.
+- 2024.9 ~ now, Researcher at ENKI WhiteHat
 
 ### Publications
 - 2023
